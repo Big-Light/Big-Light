@@ -60,21 +60,6 @@
   </tr>
 </table>
 
-------
-
-### GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Big-Light">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Big-Light&show_icons=true&theme=vue&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Light&layout=compact&theme=vue&hide_border=true" />
-</a>
-
-</div>
-
-------
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Big-Light&color=blue&style=flat&label=Profile+Views)
